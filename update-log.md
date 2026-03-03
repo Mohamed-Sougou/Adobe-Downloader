@@ -1,5 +1,8 @@
 # Change Log
 
+FATAL: Unable to parse driver XML 
+FATAL: Error occurred in starting install with error code '103'
+
 ## 2025-12-25 更新日志
 
 [//]: # (2.2.0)
